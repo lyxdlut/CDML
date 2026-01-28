@@ -1,5 +1,5 @@
-# Cross-Domain Meta Learning for Few-Shot Remote Sensing Object Classification
-This repository includes introductions and implementation of ***Cross-Domain Meta Learning for Few-Shot Remote Sensing Object Classification*** in PyTorch.
+# First-Order Cross-Domain Meta Learning for Few-Shot Remote Sensing Object Classification
+This repository includes introductions and implementation of ***First-Order Cross-Domain Meta Learning for Few-Shot Remote Sensing Object Classification*** in PyTorch.
 
 # Datasets
 We conduct experiments using five optical remote sensing datasets: 
