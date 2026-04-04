@@ -10,7 +10,7 @@ We conduct experiments using a benchmark covering multiple modalities, utilizing
 ## 1. Model Download
 You can download the required model files (`model_path.zip`) via Baidu Netdisk:
 * **Link:**[https://pan.baidu.com/s/1KBosdFMZbBQKuKpaJAuNvg](https://pan.baidu.com/s/1KBosdFMZbBQKuKpaJAuNvg)
-* ** Extraction Code / Password:** `dlut`
+* **Extraction Code / Password:** `dlut`
 
 Once downloaded and extracted, please place the model files in the following directory:
 > `outputs/CDML_meta/`
